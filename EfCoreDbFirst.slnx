@@ -1,3 +1,4 @@
 <Solution>
+  <Project Path="EfCoreDbFirst.Data/EfCoreDbFirst.Data.csproj" />
   <Project Path="EfCoreDbFirst/EfCoreDbFirst.csproj" />
 </Solution>
